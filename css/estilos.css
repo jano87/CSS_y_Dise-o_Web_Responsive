@@ -1,0 +1,32 @@
+body{
+	background-color: black;
+}
+h1{
+	color:white;
+}
+header{
+	background-color: #5b7989;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+header h1{
+	color:white;
+	text-align: left;
+	text-shadow: 1px 2px 3px #02010a;
+}
+header h2{
+	text-align: right;
+}
+img
+{
+	box-shadow: 1px 2px 3px #02010a;
+}
+#centrada{
+	background-color: #82c3a6;
+}
+#secundaria{
+	background-color: #d5c75f;
+}
+footer{
+	background-color: #C6d5c5;
+}
